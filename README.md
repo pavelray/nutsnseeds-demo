@@ -8,8 +8,8 @@ This is a ecommerse website which is developed for **Nutsnseeds Pvt. Ltd.**
 - :email: Email with Invoice on order complete. 
 - :pencil2: Review management for products.
 - :desktop_computer: Admin dashboard for adding and updating products.
-- :printer: Order process functionality from Admin. (***work in progress ***)
-- :bar_chart: Reports and Invoice copy generation from Admin. (***work in progress**)
+- :printer: Order process functionality from Admin. ( ***work in progress*** )
+- :bar_chart: Reports and Invoice copy generation from Admin. ( ***work in progress*** )
 
 ### :gear: Tech Stacks:
 - ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) for front-end.
